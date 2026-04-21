@@ -18,6 +18,14 @@ A production-ready Bash script that automatically finds the fastest working DNS 
 
 ---
 
+## ⚡ One-line Install & Run
+
+Run the script instantly without cloning:
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/mahdi-arab/smart-dns/main/dns.sh)
+```
+
 ## 📦 Installation
 
 ```bash
